@@ -623,13 +623,13 @@ https://tvsen7.aynascope.net/hbo/index.m3u8
 https://tvsen7.aynascope.net/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 2" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" tvg-chno="55" group-title="Movies",HBO 2
-https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 2" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" tvg-chno="55" group-title="Movies",HBO 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732927.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 3" tvg-country="IN" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" tvg-chno="55" group-title="Movies",HBO 3
-https://cdn01.medialive.one:2096/HBO3FHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 3" tvg-country="IN" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" tvg-chno="55" group-title="Movies",HBO 3
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732926.m3u8
@@ -645,46 +645,46 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/173292
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Okko Спорт 1
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/491/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Okko Спорт 2
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/492/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Okko Спорт 3
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/493/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ee/Go3Sport1.ee.png", Go3 Sport 1
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/416/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn04.qazsporttv.kz/2025/10/09/1759985894_68e740e6b9337.jpg",qazsporttv
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/72/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sport-georgia.png" ,setanta-sport 
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/313/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/26909384-4bc8-43d6-86d0-d77eed1384db.png?width=70&height=40&quality=93" ,setanta 1
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/234/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/6a2b0c7e-40b4-461b-80b0-80ec88aba9d6.png?width=70&height=40&quality=93" ,setanta 2
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/235/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png" ,setanta +
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/390/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/130/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/142/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/185/index.m3u8
+
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://iptvx.one/picons/eurosport1.png" tvg-id="eurosport1" tvg-description="Eurosport 1 — европейский спортивный телеканал. Транслирует широкий спектр соревнований: теннис, велоспорт, лыжи, биатлон и другие виды спорта.",Eurosport 1
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/176/index.m3u8
+
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://iptvx.one/picons/eurosport2.png" tvg-id="eurosport2" tvg-description="Eurosport 2 — второй канал сети Eurosport. Транслирует экстремальные виды спорта, а также дополнительные трансляции из сетки Eurosport.",Eurosport 2
-https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/192/index.m3u8
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1536x274.png" ,MaxSport3
