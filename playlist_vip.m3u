@@ -12,21 +12,23 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 https://tvsen3.aynaott.com/Sports1/mono.m3u8
-
-#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
-http://103.89.248.130:8082/T-SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-
-#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/SomoyTV.png" group-title="Bangla" tvg-name="Somoy TV",Somoy TV
-http://103.89.248.130:8082/SOMOY_TV/index.m3u8
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+
 
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/SomoyTV.png" group-title="Bangla" tvg-name="Somoy TV",Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/SomoyTV.png" group-title="Bangla" tvg-name="Somoy TV",Somoy TV
+http://103.89.248.130:8082/SOMOY_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="97000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="Bangla" tvg-name="Jamuna TV",Jamuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
@@ -253,7 +255,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel" tvg-name="Peace TV Bangla",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="Bangla",Sanonda Tv
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png" group-title="Bangla" tvg-name="Zee Bangla Cinema",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
