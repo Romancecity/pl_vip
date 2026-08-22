@@ -358,7 +358,7 @@ http://103.89.248.130:8082/Colors-Bangla/index.m3u8
 http://103.89.248.130:8082/COLORS-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0Vr6dQCx/Sun-Bangla-HD-logo-2023.webp" group-title="Bangla" tvg-name="Sun Bangla",Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0Vr6dQCx/Sun-Bangla-HD-logo-2023.webp" group-title="Bangla" tvg-name="Sun Bangla",Sun Bangla
 http://103.89.248.130:8082/sunbangla/index.m3u8
@@ -399,6 +399,10 @@ https://stream.ottplus.live/live/zee_anmol_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/156013.m3u8
 
+
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/156106.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
@@ -416,6 +420,9 @@ https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
 https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282631.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1526444.m3u8
@@ -460,6 +467,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2807
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155971.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" tvg-name="Star Plus",Star Plus
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/280767.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" tvg-name="Star Plus",Star Plus
 http://41.205.77.102/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="colors_hd" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
@@ -467,6 +477,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1561
 
 #EXTINF:-1 tvg-id="colors_hd" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/280774.m3u8
+
+#EXTINF:-1 tvg-id="207" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi" tvg-name="Hum TV HD",Hum TV HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/281125.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi" tvg-name="Hum TV HD",Hum TV HD
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
@@ -666,6 +679,8 @@ https://tv.city.bg/play/tshls/citytv/2.m3u8
 
 # ─────────── Movies ───────────
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png" group-title="Movies" tvg-name="MOVIES-NOW",MOVIES NOW
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/156022.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png" group-title="Movies" tvg-name="MOVIES-NOW",MOVIES NOW
 http://27.124.71.27/Movies_Now/index.m3u8
@@ -728,6 +743,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cricket/8093
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-name="Ten Cricket",Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+#EXTINF:-1 tvg-id="GEO_SUPER" tvg-logo="https://images.seeklogo.com/logo-png/19/1/geo-super-logo-png_seeklogo-198639.png" group-title="Sports" tvg-name="GEO Super",GEO Super
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/165629.m3u8
 
 #EXTINF:-1 tvg-id="GEO_SUPER" tvg-logo="https://images.seeklogo.com/logo-png/19/1/geo-super-logo-png_seeklogo-198639.png" group-title="Sports" tvg-name="GEO Super",GEO Super
 http://103.89.248.130:8082/GEO-SPORTS/index.m3u8
@@ -875,6 +893,9 @@ https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WWrnXpb5/PTV-Sports.png" group-title="Sports" tvg-name="PTV Sports HD",PTV Sports
 http://103.89.248.130:8082/PTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/35GSmGVJ/download.jpg" group-title="Sports" tvg-name="A Sports",A Sports
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1116499.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/35GSmGVJ/download.jpg" group-title="Sports" tvg-name="A Sports",A Sports
 https://playztv-apps.pages.dev/asports/index.m3u8
