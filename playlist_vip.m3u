@@ -373,8 +373,14 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
  ─────────── Hindi ───────────
 
 
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi Movies" tvg-name="Zee Cinema HD",Zee Cinema FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155975.m3u8
+
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi Movies" tvg-name="Zee Cinema HD",Zee Cinema HD
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi Movies" tvg-name="Zee Cinema HD",Zee Cinema HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/280772.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi Movies" tvg-name="Zee Cinema",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
@@ -387,6 +393,9 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/ZeeAction.png" group-title="MOVIE" tvg-name="ZEE ACTION",ZEE ACTION
 https://s2.itcnbd.live/server-2/stream/zee_action.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KcCFP6yY/hhh.webp" group-title="MOVIE" tvg-name="MBC BOLLYWOOD",MBC BOLLYWOOD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/arab-spc/368892.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KcCFP6yY/hhh.webp" group-title="MOVIE" tvg-name="MBC BOLLYWOOD",MBC BOLLYWOOD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/7742.m3u8
@@ -430,16 +439,19 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/
 #EXTINF:-1 group-title="Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1116488.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282631.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1526444.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1529145.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix SD
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix SD
 https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Movies" tvg-name="NH Bolly Flix",NH Bolly Flix
@@ -459,6 +471,15 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2807
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="MOVIES" tvg-name="Star Gold HD",Star Gold HD
 http://103.89.248.130:8082/star-gold/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picons.cmshulk.com/picons/209743.png", AND EXPLORER HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/209743.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/156003.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280749.png", COLORS CINEPLEX SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/280749.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp", STAR GOLD 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1112132.m3u8
@@ -763,6 +784,9 @@ http://103.89.248.130:8082/GEO-SPORTS/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/373118.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/arab-spc/394557.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-88/10511.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
@@ -890,6 +914,9 @@ https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rfbqJxMh/Sony-Sports-Ten-3.webp" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten 3
 http://103.89.248.130:8082/sony-ten3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten 5
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1104671.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
