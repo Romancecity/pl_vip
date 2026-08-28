@@ -748,34 +748,44 @@ http://27.124.71.27/Movies_Now/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/7JTW6kcw/j5Hfx-S.png", MNX FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/156021.m3u8
 
-#EXTINF:-1 tvg-id="197000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-name="AXN Asia Thailand",AXN
-http://54.37.19.157/axn/playlist.m3u8
+#EXTINF:-1 tvg-id="197000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-name="AXN RO",AXN RO
+https://tinyurl.com/4tfv9tup/7007/index.m3u8
 
-#EXTINF:-1 tvg-id="197000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-name="AXN Asia Thailand",AXN
-http://27.124.71.27/AXN/index.m3u8
+#EXTINF:-1 tvg-id="197000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-name="AXN RO",AXN RO
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/7007/index.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies" tvg-name="AXN Movies",AXN BLACK
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
-#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO",HBO
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732928.m3u8
+#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO RO",HBO RO
+https://tinyurl.com/4tfv9tup/7014/index.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2",HBO 2
-https://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO RO",HBO RO
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/7014/index.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2",HBO 2
-https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
+#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO RO",HBO RO
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6986/index.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2",HBO 2
+#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2 RO",HBO 2 RO
+https://tinyurl.com/4tfv9tup/7005/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2 RO",HBO 2 RO
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/7005/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2 RO",HBO 2 RO
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732927.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
-https://cdn01.medialive.one:2096/HBO3FHD/index.m3u8
+https://tinyurl.com/4tfv9tup/7013/index.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732926.m3u8
 
+#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
+https://tinyurl.com/4tfv9tup/6987/index.m3u8
 
+#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6987/index.m3u8
 
 
 
