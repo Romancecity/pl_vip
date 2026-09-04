@@ -263,6 +263,9 @@ http://103.89.248.130:8082/RTV/index.m3u8
 http://116.204.149.16/rtvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA" tvg-name="RTV",RTV
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA" tvg-name="RTV",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Bangla" tvg-name="Deshi TV HD",Deshi TV HD
@@ -928,14 +931,7 @@ http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6987/index.m3u8
  ─────────── Sports ───────────
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket",Sky Sports Cricket
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/809390.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket",Sky Sports Cricket
-https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket",Sky Sports Cricket
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1104668.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRKWv0Z7/cricbuzz.png" group-title="SPORTS" tvg-name="CRICBUZZ",CRICBUZZ
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/809382.m3u8
@@ -946,9 +942,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cricket/8093
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRKWv0Z7/cricbuzz.png" group-title="SPORTS" tvg-name="CRICBUZZ",CRICBUZZ
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/571244.m3u8
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104678.png" group-title="SPORTS" tvg-name="FOX CRICKET HD",FOX CRICKET
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1104678.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-name="Ten Cricket",Ten Cricket
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
@@ -957,6 +950,42 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cricket/8093
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-name="Ten Cricket",Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/9SzHqVV/sp1.png" tvg-name="Sport 1 HD IL",Sport 1 HD IL
+https://tinyurl.com/4tfv9tup/12249/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/9SzHqVV/sp1.png" tvg-name="Sport 1 HD IL",Sport 1 HD IL
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/12249/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/9SzHqVV/sp1.png" tvg-name="Sport 1 HD IL",Sport 1 HD IL
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/12249/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/9SzHqVV/sp1.png" tvg-name="Sport 1 HD IL",Sport 1 HD IL
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/12249/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/kTFmgR7/sp2.png" tvg-name="Sport 2 HD IL",Sport 2 HD IL
+https://tinyurl.com/4tfv9tup/12250/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/kTFmgR7/sp2.png" tvg-name="Sport 2 HD IL",Sport 2 HD IL
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/12250/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/kTFmgR7/sp2.png" tvg-name="Sport 2 HD IL",Sport 2 HD IL
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/12250/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/kTFmgR7/sp2.png" tvg-name="Sport 2 HD IL",Sport 2 HD IL
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/12250/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bjgCQPSh/sp3.png" tvg-name="Sport 3 HD IL",Sport 3 HD IL
+https://tinyurl.com/4tfv9tup/12251/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bjgCQPSh/sp3.png" tvg-name="Sport 3 HD IL",Sport 3 HD IL
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/12251/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bjgCQPSh/sp3.png" tvg-name="Sport 3 HD IL",Sport 3 HD IL
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/12251/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bjgCQPSh/sp3.png" tvg-name="Sport 3 HD IL",Sport 3 HD IL
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/12251/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
 https://tinyurl.com/4tfv9tup/220/index.m3u8
