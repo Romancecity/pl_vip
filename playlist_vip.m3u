@@ -415,7 +415,7 @@ http://103.89.248.130:8082/ZEE-BANGLA-CINEMA/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/225796.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Bangla" tvg-name="Zee Bangla",Zee Bangla
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/1531202.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Bangla" tvg-name="Zee Bangla",Zee Bangla
 https://s2.itcnbd.live/server-2/stream/zee_bangla.m3u8
@@ -625,6 +625,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1560
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280749.png", COLORS CINEPLEX SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/280749.m3u8
 
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies",Epic Bhojpuri Movies HD
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp", STAR GOLD 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1112132.m3u8
 
@@ -737,13 +740,20 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music" tvg-name="YRF Music HD",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="Music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrwCkDY0/9x-jalwa.png" group-title="Music" tvg-name="9X Jalwa",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrwCkDY0/9x-jalwa.png" group-title="Music" tvg-name="9X Jalwa",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜" tvg-name="Epic Music",Epic Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜" tvg-name="Epic Music",Epic Music HD
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜" tvg-name="Epic Music",Epic Music SD
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="Music" tvg-name="9X Jhakaas",9X Jhakaas
@@ -979,14 +989,17 @@ https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRKWv0Z7/cricbuzz.png" group-title="SPORTS" tvg-name="CRICBUZZ",CRICBUZZ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/809382.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket HD",Sky Sports Cricket HD
+https://tinyurl.com/4tfv9tup/7343/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRKWv0Z7/cricbuzz.png" group-title="SPORTS" tvg-name="CRICBUZZ",CRICBUZZ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cricket/809382.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket HD",Sky Sports Cricket HD
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/7343/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRKWv0Z7/cricbuzz.png" group-title="SPORTS" tvg-name="CRICBUZZ",CRICBUZZ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/571244.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket HD",Sky Sports Cricket HD
+http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/7343/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="SPORTS" tvg-name="Sky Sports Cricket HD",Sky Sports Cricket HD
+http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/7343/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-name="Ten Cricket",Ten Cricket
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
@@ -1035,6 +1048,9 @@ http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/12251/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
 https://tinyurl.com/4tfv9tup/220/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/20156/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/220/index.m3u8
@@ -1119,6 +1135,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-88/30326
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6ckgkzSh/4573.png" group-title="SPORTS" tvg-name="SKY SPORTS Mix HD",SKY SPORTS Mix HD
 https://tinyurl.com/4tfv9tup/5039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6ckgkzSh/4573.png" group-title="SPORTS" tvg-name="SKY SPORTS Mix HD",SKY SPORTS Mix HD
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/5039/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6ckgkzSh/4573.png" group-title="SPORTS" tvg-name="SKY SPORTS Mix HD",SKY SPORTS Mix HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/5039/index.m3u8
