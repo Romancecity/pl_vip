@@ -1,12 +1,6 @@
 
  ─────────── Bangla ───────────
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" tvg-name="IreenTV Promo",IreenTV Promo
-https://ireentvlive.pages.dev/promo/master.m3u8
-
-#EXTINF:-1 tvg-id="IreenTV Music" tvg-logo="https://i.ibb.co.com/WvNYSyHf/ireen-TV-Music.png" group-title="Music", IreenTV Music
-https://cinevault-tv.pages.dev/?mode=player&channel=ireentvmusic&fullscreen=1
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic" tvg-name="Quran TV",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 
@@ -258,6 +252,9 @@ http://116.204.149.16/banglatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Bangla" tvg-name="Movie Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Bangla" tvg-name="Movie Bangla",Movie Bangla
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png" group-title="Bangla" tvg-name="Ekushey TV",Ekushey TV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
@@ -593,13 +590,13 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
-
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
-http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
 https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
+http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
 https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
@@ -620,7 +617,7 @@ https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
-
+https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix SD
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
@@ -630,11 +627,6 @@ https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Movies" tvg-name="NH Bolly Flix",NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png", & PICTURES FHD
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png", & PICTURES
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="MOVIE" tvg-name="& Pictures HD",& Pictures HD
@@ -692,10 +684,13 @@ http://41.205.77.102/STAR-PLUS/index.m3u8
 
 
 #EXTINF:-1 tvg-id="207" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi" tvg-name="Hum TV HD",Hum TV HD
-
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi" tvg-name="Hum TV HD",Hum TV HD
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="207" tvg-logo="https://ah-media-eug.pages.dev/logos/SonySAB.png" group-title="Hindi" tvg-name="SONY SAB",SONY SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-logo="https://ah-media-eug.pages.dev/logos/SonySAB.png" group-title="Hindi" tvg-name="SONY SAB",SONY SAB
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
@@ -707,10 +702,16 @@ https://s2.itcnbd.live/server-2/stream/sonysab_hd.m3u8
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/ZeeTV.png" group-title="Hindi" tvg-name="ZEE TV",ZEE TV
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/ZeeTV.png" group-title="Hindi" tvg-name="ZEE TV",ZEE TV
 https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi" tvg-name="& TV",& TV
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi" tvg-name="& TV",& TV
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi" tvg-name="& TV",& TV
 https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
@@ -940,6 +941,22 @@ https://tv.city.bg/play/tshls/citytv/2.m3u8
 http://27.124.71.27/Movies_Now/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/7JTW6kcw/j5Hfx-S.png", MNX FHD
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" tvg-name="Yes Movies Action HD",Yes Movies Action HD
+https://tinyurl.com/4tfv9tup/12280/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" tvg-name="Yes Movies Action HD",Yes Movies Action HD
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/12280/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" tvg-name="Yes Movies Action HD",Yes Movies Action HD
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/12280/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" tvg-name="Yes Movies Action HD",Yes Movies Action HD
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/12280/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" tvg-name="Yes Movies Action HD",Yes Movies Action HD
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/12280/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
