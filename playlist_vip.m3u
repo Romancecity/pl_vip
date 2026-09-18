@@ -629,7 +629,7 @@ https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" tvg-name="Sony Entertainment Television HD",Sony Entertainment Television HD
-https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
+http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
 
@@ -699,7 +699,7 @@ http://202.70.146.135:8000/play/a04q/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" tvg-name="Star Plus",Star Plus
-
+http://41.205.93.154/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" tvg-name="Star Plus",Star Plus
 http://202.70.146.135:8000/play/a009/index.m3u8
@@ -740,6 +740,9 @@ https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/ZeeTV.png" group-title="Hindi" tvg-name="ZEE TV",ZEE TV
 https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
 
+#EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/ZeeTV.png" group-title="Hindi" tvg-name="ZEE TV",ZEE TV
+http://41.205.93.154/ZEE-TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi" tvg-name="& TV",& TV
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
@@ -752,15 +755,23 @@ https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi" tvg-name="& TV",& TV
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Hindi - Entertainment" tvg-name="Zee One (1080p)",Zee One
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Hindi - Entertainment" tvg-name="Zee One",Zee One
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HLWLfRZy/Sony-Kal-Logo.webp" group-title="Hindi - Entertainment" tvg-name="Sony KAL Hindi (1080p)",Sony KAL Hindi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Hindi - Entertainment" tvg-name="Zee One",Zee One
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HLWLfRZy/Sony-Kal-Logo.webp" group-title="Hindi - Entertainment" tvg-name="Sony KAL Hindi",Sony KAL Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HLWLfRZy/Sony-Kal-Logo.webp" group-title="Hindi - Entertainment" tvg-name="Sony KAL Hindi (1080p)",Sony KAL Hindi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HLWLfRZy/Sony-Kal-Logo.webp" group-title="Hindi - Entertainment" tvg-name="Sony KAL Hindi",Sony KAL Hindi
 https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="Hindi - Entertainment",Zee Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Hindi - Entertainment",Star Maa HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png" group-title="Hindi", DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
@@ -1042,15 +1053,8 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="Movies",The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
-
-#EXTINF:-1 tvg-id="197000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-name="AXN RO",AXN RO
-https://tinyurl.com/4tfv9tup/7007/index.m3u8
-
-#EXTINF:-1 tvg-id="197000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-name="AXN RO",AXN RO
-http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/7007/index.m3u8
-
 #EXTINF:-1 tvg-id="197010" tvg-logo="https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png" group-title="Movies" tvg-name="be Movies Action 2 HD",be Movies Action 2 HD
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/6134/index.m3u8
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6134/index.m3u8
 
 #EXTINF:-1 tvg-id="197010" tvg-logo="https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png" group-title="Movies" tvg-name="be Movies Action 2 HD",be Movies Action 2 HD
 https://tinyurl.com/4tfv9tup/6134/index.m3u8
@@ -1064,38 +1068,6 @@ http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/6134/index.m3u8
 #EXTINF:-1 tvg-id="197010" tvg-logo="https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png" group-title="Movies" tvg-name="be Movies Action 2 HD",be Movies Action 2 HD
 http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6134/index.m3u8
 
-#EXTINF:-1 tvg-id="197000" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies" tvg-name="AXN Movies",AXN Movies
-http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-
-#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO RO",HBO RO
-https://tinyurl.com/4tfv9tup/7014/index.m3u8
-
-#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO RO",HBO RO
-http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/7014/index.m3u8
-
-#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies" tvg-name="HBO RO",HBO RO
-http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6986/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2 RO",HBO 2 RO
-https://tinyurl.com/4tfv9tup/7005/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2 RO",HBO 2 RO
-http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/7005/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" group-title="Movies" tvg-name="HBO 2 RO",HBO 2 RO
-
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
-https://tinyurl.com/4tfv9tup/7013/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
-
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
-https://tinyurl.com/4tfv9tup/6987/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-country="IN" tvg-chno="55" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" group-title="Movies" tvg-name="HBO 3",HBO 3
-http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6987/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HpCK8PZ4/img-014.png" group-title="Movies" tvg-name="Rakuten TV Family Movies",Family Movies
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
