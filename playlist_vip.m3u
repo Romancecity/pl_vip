@@ -1446,6 +1446,9 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18025/index.m3u8
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1404528.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
+https://baila-lentoo.pages.dev/all-sp/809383.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
 http://202.70.146.135:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
@@ -1467,6 +1470,9 @@ https://tvsen7.aynascope.net/ssport2hd/index.m3u8
 https://flussonic.defineatoz.com/Starsports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kV7KtjH0/star2.png" group-title="Sports" tvg-name="Star Sports 2",Star Sports 2
+https://baila-lentoo.pages.dev/all-sp/809384.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kV7KtjH0/star2.png" group-title="Sports" tvg-name="Star Sports 2",Star Sports 2
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kV7KtjH0/star2.png" group-title="Sports" tvg-name="Star Sports 2",Star Sports 2
@@ -1482,7 +1488,7 @@ http://103.89.248.130:8082/Star-sport-3/index.m3u8
 https://baila-lentoo.pages.dev/all-sp/373202.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" tvg-name="StarSports Select 1",Star Sports Select 1
-https://baila-lentoo.pages.dev/all-sp/809383.m3u8
+https://baila-lentoo.pages.dev/all-sp/373202.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" tvg-name="StarSports Select 1",Star Sports Select 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
@@ -1497,7 +1503,7 @@ http://103.89.248.130:8082/Star-sports-select-1/index.m3u8
 https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" tvg-name="Star Sports Select 2",Star Sports Select 2
-https://baila-lentoo.pages.dev/all-sp/809384.m3u8
+https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" tvg-name="Star Sports Select 2",Star Sports Select 2
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/9401.ts
