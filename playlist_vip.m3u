@@ -47,6 +47,9 @@ http://103.89.248.130:8082/T-SPORTS/index.m3u8
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
 http://103.89.248.130:8082/DURONTO-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
@@ -148,10 +151,13 @@ https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854Vn9Kc/20260918-142309.png" group-title="Bangla" tvg-name="Ekhon TV",Ekhon TV
 http://103.89.248.130:8082/EKHON-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangla",Channel 1 News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangla",Channel 1
+https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangla",Channel 1
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangla",Channel 1 News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangla",Channel 1
 https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Bangla"tvg-logo="https://i.postimg.cc/pd019sYq/20240822_230705.png",SA TV
@@ -271,6 +277,9 @@ http://103.89.248.130:8082/CHANNAL-I/index.m3u8
 #EXTINF:-1 tvg-id="100000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Bangla" tvg-name="Bangla Vision",Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
+#EXTINF:-1 tvg-id="100000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Bangla" tvg-name="Bangla Vision",Bangla Vision
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="99000" tvg-logo="https://i.postimg.cc/bJgjFWCb/20260918-142451.png" group-title="Bangla" tvg-name="NTV",NTV
 
 
@@ -287,7 +296,7 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15jySx9q/20260918-105617.png" group-title="Bangla" tvg-name="Bangla TV",Bangla TV
-https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15jySx9q/20260918-105617.png" group-title="Bangla" tvg-name="Bangla TV",Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
@@ -1536,6 +1545,12 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" tvg-name="Star Sports Select 2",Star Sports Select 2
 https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/sports18.png" group-title="SPORTS" , EUROSPORTS HD
+https://baila-lentoo.pages.dev/all-sp/373194.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/sports18.png" group-title="SPORTS" , EUROSPORTS HD
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://baila-lentoo.pages.dev/all-sp/373200.m3u8
