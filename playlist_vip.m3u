@@ -47,6 +47,9 @@ http://103.89.248.130:8082/T-SPORTS/index.m3u8
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
@@ -192,6 +195,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="BANGLA" tvg-name="NAGORIK TV HD",NAGORIK TV HD
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="BANGLA" tvg-name="NAGORIK TV HD",NAGORIK TV HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/3802.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="BANGLA" tvg-name="NAGORIK TV HD",NAGORIK TV HD
 http://103.89.248.130:8082/NAGORIK-TV/index.m3u8
@@ -356,7 +362,7 @@ https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXTP3Vty/20260918-105226.png" group-title="Bangla" tvg-name="ATN BANGLA HD",ATN BANGLA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-stream/97110.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXTP3Vty/20260918-105226.png" group-title="Bangla" tvg-name="ATN BANGLA HD",ATN BANGLA HD
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
@@ -1735,6 +1741,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4kdKGZ6/yyyr.png" group-title="Kids" tvg-name="Tom & Jerry TV",Tom & Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4kdKGZ6/yyyr.png" group-title="Kids" tvg-name="Tom & Jerry TV",Tom & Jerry TV
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/661308.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Bantul_The_Great_logo.jpeg" group-title="Kids" tvg-name="Bantul The Great",Bantul The Great
 
 
@@ -1757,7 +1766,7 @@ https://tvsen7.aynascope.net/disneyjr/index.m3u8
 https://tvsen5.aynascope.net/disney/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngarts.com/files/8/Doraemon-Logo-PNG-Transparent-Image.png" group-title="Kids" tvg-name="Doraemon TV",Doraemon TV
-
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/147746.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Oggy_and_the_Cockroaches_Logo.webp" group-title="Kids" tvg-name="Oggy and the Cockroaches",Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
@@ -1794,6 +1803,9 @@ https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kkTKjFS/di2.png" group-title="Documentary" tvg-name="Discovery",Discovery
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kkTKjFS/di2.png" group-title="Documentary" tvg-name="Discovery Bangla",Discovery Bangla
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98872.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kkTKjFS/di2.png" group-title="Documentary" tvg-name="Discovery Bangla",Discovery Bangla
 http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
