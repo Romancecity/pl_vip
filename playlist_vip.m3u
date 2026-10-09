@@ -1358,6 +1358,15 @@ https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-name="Ten Cricket",Sony Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
+#EXTINF:-1 tvg-name="WILLOW CRICKET HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" ,WILLOW CRICKET HD
+https://baila-lentoo.pages.dev/all-sp/809386.m3u8
+
+#EXTINF:-1 tvg-name="WILLOW CRICKET EXTRA HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" ,WILLOW CRICKET EXTRA HD
+https://baila-lentoo.pages.dev/all-sp/809387.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" ,SKY SPORTS CRICKET HD
+https://baila-lentoo.pages.dev/all-sp/809390.m3u8
+
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="ASTRO CRICKET" tvg-logo="https://i.postimg.cc/s2pz5v54/20260918-111431.png" group-title="SPORTS",ASTRO CRICBUZ
 https://baila-lentoo.pages.dev/all-sp/809382.m3u8
 
@@ -1368,7 +1377,7 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/2494.ts
 https://baila-lentoo.pages.dev/all-sp/911326.m3u8
 
 #EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports HD
-https://baila-lentoo.pages.dev/all-sp/809396.m3u8
+https://baila-lentoo.pages.dev/all-sp/911327.m3u8
 
 #EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98.ts
