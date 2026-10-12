@@ -1448,17 +1448,27 @@ http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/31856/index.m3u8
 https://tinyurl.com/4tfv9tup/31853/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7dd0RGhB/images-1.png" tvg-name="M+ LaLiga HD",M+ LaLiga HD
+https://baila-lentoo.pages.dev/all-sp/1312825.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7dd0RGhB/images-1.png" tvg-name="M+ LaLiga HD",M+ LaLiga HD
+https://baila-lentoo.pages.dev/all-sp/1312817.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7dd0RGhB/images-1.png" tvg-name="M+ LaLiga HD",M+ LaLiga HD
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/31853/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7dd0RGhB/images-1.png" tvg-name="M+ LaLiga HD",M+ LaLiga HD
 http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/31853/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE HD
 https://baila-lentoo.pages.dev/all-sp/809372.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
-https://baila-lentoo.pages.dev/all-sp/760956.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE 2 HD
+https://baila-lentoo.pages.dev/all-sp/1149432.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE 2HD
+https://baila-lentoo.pages.dev/all-sp/1149458.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
 
@@ -1471,8 +1481,53 @@ https://baila-lentoo.pages.dev/all-sp/760956.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
 
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
+https://baila-lentoo.pages.dev/all-sp/1311997.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
+https://baila-lentoo.pages.dev/all-sp/1312031.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
+https://baila-lentoo.pages.dev/all-sp/1312047.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
+https://baila-lentoo.pages.dev/all-sp/394555.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS MIX HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="SPORTS" , SKY SPORTS MIX FHD
+https://baila-lentoo.pages.dev/all-sp/1312000.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS MIX HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="SPORTS" , SKY SPORTS MIX FHD
+https://baila-lentoo.pages.dev/all-sp/1312034.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS MIX HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="SPORTS" , SKY SPORTS MIX FHD
+https://baila-lentoo.pages.dev/all-sp/1312046.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS MIX HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="SPORTS" , SKY SPORTS MIX FHD
+https://baila-lentoo.pages.dev/all-sp/394551.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT SELECT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT SELECT HD.png" group-title="SPORTS" , SKY SPORT SELECT HD
+https://baila-lentoo.pages.dev/all-sp/809380.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 1 HD.png" group-title="SPORTS" , SKY SPORT 1 HD
+https://baila-lentoo.pages.dev/all-sp/809379.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 2 HD.png" group-title="SPORTS" , SKY SPORT 2 HD
+https://baila-lentoo.pages.dev/all-sp/809378.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 3 HD.png" group-title="SPORTS" , SKY SPORT 3 HD
+https://baila-lentoo.pages.dev/all-sp/809377.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 4 HD.png" group-title="SPORTS" , SKY SPORT 4 HD
+https://baila-lentoo.pages.dev/all-sp/809376.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 5 HD.png" group-title="SPORTS" , SKY SPORT 5 HD
+https://baila-lentoo.pages.dev/all-sp/809375.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 6 HD.png" group-title="SPORTS" , SKY SPORT 6 HD
+https://baila-lentoo.pages.dev/all-sp/809374.m3u8
+
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 7 HD.png" group-title="SPORTS" , SKY SPORT 7 HD
+https://baila-lentoo.pages.dev/all-sp/809373.m3u8
 
 
 
