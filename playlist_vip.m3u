@@ -1746,6 +1746,25 @@ https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b7
 http://103.114.11.37:8081/WWE-24/7/index.m3u8
 
 
+#EXTINF:-1 tvg-name="┃UK┃ BEIN SPORTS 1 EN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="Sports" , BEIN SPORTS 1 EN HD
+https://baila-lentoo.pages.dev/all-sp/1313533.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ BEIN SPORTS 1 EN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="Sports" , BEIN SPORTS 1 EN HD
+https://baila-lentoo.pages.dev/all-sp/1313535.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ BEIN SPORTS 1 EN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="Sports" , BEIN SPORTS 1 EN HD
+https://baila-lentoo.pages.dev/all-sp/1313537.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ BEIN SPORTS 2 EN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="Sports" , BEIN SPORTS 2 EN HD
+https://baila-lentoo.pages.dev/all-sp/1313534.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ BEIN SPORTS 2 EN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="Sports" , BEIN SPORTS 2 EN HD
+https://baila-lentoo.pages.dev/all-sp/1313536.m3u8
+
+#EXTINF:-1 tvg-name="┃UK┃ BEIN SPORTS 2 EN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="Sports" , BEIN SPORTS 2 EN HD
+https://baila-lentoo.pages.dev/all-sp/1313538.m3u8
+
+
 #EXTINF:-1 tvg-name="┃FR┃ BEIN SPORTS 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="Sports" , BEIN SPORTS 1 FR HD
 https://baila-lentoo.pages.dev/all-sp/941417.m3u8
 #EXTINF:-1 tvg-name="┃FR┃ BEIN SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="Sports" , BEIN SPORTS 1 FR HD
