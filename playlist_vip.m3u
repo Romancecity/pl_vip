@@ -269,6 +269,9 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63cN1gjc/20260918-142530.png" group-title="BANGLA" tvg-name="GAZI TV",GAZI TV
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63cN1gjc/20260918-142530.png" group-title="BANGLA" tvg-name="GAZI TV",GAZI TV
 http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63cN1gjc/20260918-142530.png" group-title="BANGLA" tvg-name="GAZI TV",GAZI TV
@@ -874,6 +877,9 @@ https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020169.ts
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009246|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 http://202.70.146.135:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
@@ -893,6 +899,9 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
+https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix HD
 http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8
@@ -1673,82 +1682,94 @@ https://baila-lentoo.pages.dev/all-sp/373194.m3u8
 #EXTINF:-1 tvg-name="EUROSPORTS HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" group-title="SPORTS" , EUROSPORTS HD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://baila-lentoo.pages.dev/all-sp/373200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+https://techandeat.online/sliv/stream.m3u8?id=1000009276|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 http://103.89.248.130:8082/Sony-TEN-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://baila-lentoo.pages.dev/all-sp/373199.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+https://techandeat.online/sliv/stream.m3u8?id=1000009277|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98862.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u80
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 http://103.89.248.130:8082/sony-TEN-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 https://baila-lentoo.pages.dev/all-sp/373198.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+https://techandeat.online/sliv/stream.m3u8?id=1000009278|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98863.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 https://drk6xq0vhn.gpcdn.net/live/ten_3_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 http://103.89.248.130:8082/sony-ten3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://baila-lentoo.pages.dev/all-sp/373196.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="Sports" tvg-name="PTV Sports",PTV Sports
