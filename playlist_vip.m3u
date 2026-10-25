@@ -164,6 +164,9 @@ https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 
 #EXTINF:-1 tvg-id="132000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Bangla" tvg-name="Channel I HD",Channel i
+https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
+
+#EXTINF:-1 tvg-id="132000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Bangla" tvg-name="Channel I HD",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-id="132000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Bangla" tvg-name="Channel I HD",Channel i
@@ -177,6 +180,9 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 #EXTINF:-1 tvg-id="185000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="Bangla" tvg-name="DBC News HD",DBC News HD
 http://103.89.248.130:8082/DBC-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="134000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla" tvg-name="Deepto TV HD",Deepto TV HD
+https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
 
 #EXTINF:-1 tvg-id="134000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla" tvg-name="Deepto TV HD",Deepto TV HD
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
@@ -225,6 +231,9 @@ http://198.195.239.50:8095/duranta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J73yRzgj/Duronto-tv.png" group-title="Kids" tvg-name="Duronto TV", Duronto TV
 http://103.165.93.31:8095/duranta/index.m3u8
+
+#EXTINF:-1 tvg-id="102000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla" tvg-name="Ekattor HD",Ekattor TV
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 
 #EXTINF:-1 tvg-id="102000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla" tvg-name="Ekattor HD",Ekattor TV
 https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
@@ -329,6 +338,9 @@ http://103.165.93.31:8095/jamunaTv/index.m3u8
 https://iptv.porosh.com.bd/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 
 #EXTINF:-1 tvg-id="MAASRANGA.bd" tvg-logo="https://i.postimg.cc/8CWpwygm/20260917-185459.png" group-title="Bangla" tvg-name="MAASRANGA HD",MAASRANGA HD
+https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
+
+#EXTINF:-1 tvg-id="MAASRANGA.bd" tvg-logo="https://i.postimg.cc/8CWpwygm/20260917-185459.png" group-title="Bangla" tvg-name="MAASRANGA HD",MAASRANGA HD
 https://tvsen5.aynascope.net/maasrangatv/index.m3u8
 
 #EXTINF:-1 tvg-id="MAASRANGA.bd" tvg-logo="https://i.postimg.cc/8CWpwygm/20260917-185459.png" group-title="Bangla" tvg-name="MAASRANGA HD",MAASRANGA HD
@@ -423,6 +435,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="Bangla" tvg-name="Rajdhani TV",Rajdhani TV
 https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sMdDw7/20260918-142828.png" group-title="BANGLA" tvg-name="RTV",RTV
+https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sMdDw7/20260918-142828.png" group-title="BANGLA" tvg-name="RTV",RTV
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
@@ -824,6 +839,12 @@ https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="892" tvg-name="Hindi Movies" tvg-logo="https://i.ibb.co.com/YTJtd0RW/ghgg.png" group-title="Hindi Movies",Hindi Movies
 https://vods2.aynaott.com/hindimovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791450396186.png" group-title="Infotainment",HUM MASALA HD
+https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791450706877.png" group-title="Entertainment",HUM SITARAY HD
+https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi" tvg-name="Hum TV HD",Hum TV HD
 https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
