@@ -558,19 +558,19 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nkJKVbw8obzDxMqr3icQerQ6PvZlkDFjbBaYRBfn83Lw=s160-c-k-c0x00ffffff-no-rj" group-title="Bangla",Channel 52
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Colors Bangla Cinema
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Colors Bangla Cinema
 http://103.89.248.130:8082/COLORS-BANGLA-CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Colors Bangla Cinema
 http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Colors Bangla Cinema
 http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Color Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxg5pDdJ/Colors-Bangla-Cinema.png" group-title="Movies" tvg-name="Color Bangla Cinema",Colors Bangla Cinema
 http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2p677yw/Colors-Bangla-logo-svg.webp" group-title="Bangla" tvg-name="Colors Bangla",Colors Bangla
@@ -765,6 +765,9 @@ https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=139
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72165.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
@@ -788,16 +791,19 @@ https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi" tvg-name="& TV",&TV USA HD
 https://premiumplug.fun/zee/zee5.php/0-9-channel_1510237423.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",&xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",& xplor HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/AND_XPLOR_HD.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",&xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",& xplor HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=80371
+
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",& xplor HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510293.ts
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",&xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",& xplor HD
 https://premiumplug.fun/zee/zee5.php/0-9-209.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",&xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://i.ibb.co.com/H0DkRDd/xplore.jpg" group-title="Hindi Movies",& xplor HD
 http://51.75.127.199:3141/andxplorehd/index.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png" group-title="Hindi", Aaj Tak HD
@@ -811,6 +817,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/COLORS_
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
 http://41smartpro.xyz:80/live/bmg12mk788/UPBTUU4/1020166.ts
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=470
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
@@ -935,6 +944,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/SONY_MA
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020169.ts
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=184
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 http://202.70.146.135:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
@@ -954,6 +966,9 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/SONY_PIX_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=189
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts
@@ -983,6 +998,9 @@ https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 https://s2.itcnbd.live/server-2/stream/sonysab_hd.m3u8
 
 #EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://i.postimg.cc/xjs2Grbd/20260918-144735.png" group-title="Hindi Movies",SONY WAH
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=187
+
+#EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://i.postimg.cc/xjs2Grbd/20260918-144735.png" group-title="Hindi Movies",SONY WAH
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72152.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
@@ -993,6 +1011,9 @@ http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020175.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=196
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
 http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
@@ -1007,6 +1028,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_GO
 http://103.151.60.162:2122/play/a01v/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp", STAR GOLD 2
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33165
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp", STAR GOLD 2
 http://202.70.146.135:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
@@ -1014,6 +1038,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_GO
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/210.ts
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=197
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
@@ -1043,6 +1070,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_MO
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/9384.ts
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=198
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
@@ -1056,6 +1086,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Star_Mo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZf/20260917-183528.png" group-title="Hindi Movies",Star Movies Select HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23270.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZf/20260917-183528.png" group-title="Hindi Movies",Star Movies Select HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=199
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZf/20260917-183528.png" group-title="Hindi Movies",Star Movies Select HD
 http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
@@ -2079,6 +2112,9 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
 http://198.195.239.50:8095/sonic/index.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=90243
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Kids" tvg-name="Sony YaY",Sony YaY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
@@ -2136,6 +2172,9 @@ https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98872.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kkTKjFS/di2.png" group-title="Documentary" tvg-name="Discovery Bangla",Discovery Bangla
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=44153
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kkTKjFS/di2.png" group-title="Documentary" tvg-name="Discovery Bangla",Discovery Bangla
 http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9kkTKjFS/di2.png" group-title="Documentary" tvg-name="Discovery Bangla",Discovery Bangla
@@ -2153,6 +2192,9 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4Vs7JJ6/ns.webp" group-title="Documentary" tvg-name="National Geography",National Geography Bangla
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/7342.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4Vs7JJ6/ns.webp" group-title="Documentary" tvg-name="National Geography",National Geography Bangla
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=90229
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4Vs7JJ6/ns.webp" group-title="Documentary" tvg-name="National Geography",National Geography Bangla
 http://103.89.248.130:8082/National-geo-graphy-bangla/index.m3u8
