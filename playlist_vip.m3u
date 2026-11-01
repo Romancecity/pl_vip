@@ -1885,7 +1885,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="Sports" tvg-name="PTV Sports",PTV Sports
-https://baila-lentoo.pages.dev/all-sp/911324.m3u8
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/PTV_SPORTS_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="Sports" tvg-name="PTV Sports",PTV Sports
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404537.ts
@@ -1909,10 +1909,13 @@ https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 http://103.89.248.130:8082/PTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
-https://baila-lentoo.pages.dev/all-sp/809397.m3u8
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/A_SPORTS_FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/A_SPORTS_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
