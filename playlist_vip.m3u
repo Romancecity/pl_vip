@@ -648,6 +648,12 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="Movies",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1 tvg-id="BHI Channel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bhi_channel.png" group-title="Bangla",BHI Channel
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132873
+
+#EXTINF:-1 tvg-id="BHI Channel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bhi_channel.png" group-title="Bangla",BHI Channel
+https://server.livelegitpro.in/bhichannel/bhichannel/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nkJKVbw8obzDxMqr3icQerQ6PvZlkDFjbBaYRBfn83Lw=s160-c-k-c0x00ffffff-no-rj" group-title="Bangla",Channel 52
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 
@@ -1047,6 +1053,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://baila-lentoo.pages.dev/arabic-c/918268.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KcCFP6yY/hhh.webp" group-title="Hindi Movies" tvg-name="MBC BOLLYWOOD",MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://go4.pw/ASIA/INDIA/miniplex-1.png" tvg-id="MINIPLEX",MINIPLEX HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/MINIPLEX_HD.m3u8
@@ -1413,7 +1420,7 @@ https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrwCkDY0/9x-jalwa.png" group-title="Music" tvg-name="9X Jalwa",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="Music" tvg-name="9X Jhakaas",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_9x_jhakaas.webp" group-title="Music" tvg-name="9X Jhakaas",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/9X_Tashan_Logo.jpg" group-title="Music" tvg-name="9X Tashan",9X Tashan
@@ -1531,11 +1538,17 @@ https://tinyurl.com/4tfv9tup/19247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6YhP9G2/2277.pngg" group-title="Music" tvg-name="RU.TV",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJbz501D3eMb5GnNPVnPNe_Bc-uCyZpo6qg&s" group-title="Music" tvg-name="Saga Music Haryani",Saga Music Haryani
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_saga_music_haryanvi.jpg" group-title="Music" tvg-name="Saga Music Haryani",Saga Music Haryani
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E3Mw-3r_cEYc29ivD-rRlhF9RkpgfhZ5BLgi9uFdnyImiUGLNVBv2s8rOxC3ig4iVfxrtxSE=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-name="Saga Music Hindi",Saga Music Hindi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_saga_music_haryanvi.jpg" group-title="Music" tvg-name="Saga Music Haryani",Saga Music Haryani
+https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJbz501D3eMb5GnNPVnPNe_Bc-uCyZpo6qg&s" group-title="Music" tvg-name="Saga Music Hindi",Saga Music Hindi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJbz501D3eMb5GnNPVnPNe_Bc-uCyZpo6qg&s" group-title="Music" tvg-name="Saga Music Hindi",Saga Music Hindi
+https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg" group-title="Music" tvg-name="Sangeet Bhojpuri",Sangeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
