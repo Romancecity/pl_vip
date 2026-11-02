@@ -954,16 +954,16 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/COLORS_
 http://41smartpro.xyz:80/live/bmg12mk788/UPBTUU4/1020166.ts
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=470
-
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=156
-
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
 http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
 http://202.70.146.135:8000/play/a04n/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=470
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=156
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX HD
 http://51.75.127.199:3141/colorscineplexhd/index.m3u8
