@@ -742,7 +742,13 @@ https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
 http://103.151.60.162:2122/play/a0f5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/198.ts
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_JALSHA_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=116
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=116592
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
@@ -751,13 +757,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2Nab05VZXFnaEtDN24xQWNxQm5pMVZZY0dqYlZNUFYweExnT3NtUHFpWTFrbA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
-https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_JALSHA_HD.m3u8
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/198.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=116
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=116592
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" tvg-name="Star Jalsha",Star Jalsha
 http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
@@ -829,8 +832,14 @@ https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/u-bangla.png" group-title="Bangla" tvg-name="U Bangla", U Bangla
 https://stream.ottlive.co.in/ubangla/index.m3u8
 
-https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/ZEE_BANGLA_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvf1m76p/20260918-142751.png" group-title="Bangla" tvg-name="Zee Bangla",Zee Bangla HD
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/ZEE_BANGLA_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvf1m76p/20260918-142751.png" group-title="Bangla" tvg-name="Zee Bangla",Zee Bangla HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=120
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvf1m76p/20260918-142751.png" group-title="Bangla" tvg-name="Zee Bangla",Zee Bangla HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132512
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvf1m76p/20260918-142751.png" group-title="Bangla" tvg-name="Zee Bangla",Zee Bangla HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23305.ts
@@ -1206,6 +1215,12 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=197
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Gold Romance" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Hindi",Star Gold Romance HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128485
+
+#EXTINF:-1 tvg-id="Star Gold Romance" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Hindi",Star Gold Romance HD
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_GOLD_ROMANCE_HD.m3u8
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.postimg.cc/Y08qYhB9/20260917-183853.png" group-title="Hindi Movies",Star Gold THRILLS
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
