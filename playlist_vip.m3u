@@ -1499,6 +1499,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="Music", Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="Music", Joo Music
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=30298
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music" tvg-name="KpopTV Play",KpopTV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
@@ -1511,11 +1514,23 @@ https://raw.githubusercontent.com/Romancecity/chnnels/refs/heads/main/MusicBoxDa
 #EXTINF:-1 group-title="Music" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png",Music Box Hits
 https://raw.githubusercontent.com/Romancecity/chnnels/refs/heads/main/MusicBoxHits.m3u8
 
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" group-title="Music" tvg-name="Music Mastii",Music Mastii
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_deewana_hd.png" group-title="Music" tvg-name="Music Mastii",DEEWANA HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1zdj81J/POP-World-TV.png" group-title="Music" tvg-name="POP World TV (ES)",POP World TV (ES)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-id="dhoommusic.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dhoom_music_bangla.png" group-title="Music", DHOOM MUSIC Bangla
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=94
+
+#EXTINF:-1 tvg-id="dhoommusic.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dhoom_music_bangla.png" group-title="Music", DHOOM MUSIC Bangla
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/music_india.png" group-title="Music",Music India
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=175
+
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/music_india.png" group-title="Music",Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bm2sbh1/POWER-Dance-TR.png" group-title="Music" tvg-name="POWER Dance (TR)",POWER Dance (TR)
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -1569,6 +1584,9 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-black.png" group-title="Music", SUN MUSIC
 https://hls.sunmusic.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-black.png" group-title="Music", SUN MUSIC
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=128760
+
 #EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-name="Tarang Music" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tarang-music.png" group-title="Music" tvg-name="Tarang Music",Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 
@@ -1578,7 +1596,7 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="Music" tvg-name="Trace Ayiti",Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music" tvg-name="Trace Brasil (1080p)",Trace Brasil (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music" tvg-name="Trace Brasil (1080p)",Trace Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3X9Gg4.png" group-title="Music" tvg-name="Trace Mziki",Trace Mziki
@@ -2159,8 +2177,17 @@ https://stream.ottplus.live/live/ten_3_hd_abr/live/ten_3_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 http://103.89.248.130:8082/sony-ten3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/21/10/304240_1787558465564_l_medium.jpg" group-title="Sports" tvg-name="Sony Ten 4",Sony Ten Sports 4
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=105349
+#EXTINF:-1 tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="Sports" tvg-name="Sony Ten 4",Sony Ten Sports 4
+http://bosstv.click:8080/live/18012689/77561563/156133.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="Sports" tvg-name="Sony Ten 4",Sony Ten Sports 4
+http://bosstv.click:8080/live/18012689/77561563/156134.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="Sports" tvg-name="Sony Ten 4",Sony Ten Sports 4
+http://bosstv.click:8080/live/18012689/77561563/156131.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="Sports" tvg-name="Sony Ten 4",Sony Ten Sports 4
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Sony_Ten_Sports_5_HD.m3u8
@@ -2327,6 +2354,9 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
 http://198.195.239.50:8095/sonic/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
+http://bosstv.click:8080/live/18012689/77561563/92412.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=90243
