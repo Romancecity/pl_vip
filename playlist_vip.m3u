@@ -151,8 +151,11 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangla",Channel 1
 https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png" group-title="Bangla Music" tvg-name="Channel 16",Channel 16
+#EXTINF:-1 tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-16.webp" group-title="Bangla Music" tvg-name="Channel 16",Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-16.webp" group-title="Bangla Music" tvg-name="Channel 16",Channel 16
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
 #EXTINF:-1 tvg-id="94000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangla" tvg-name="Channel 24 HD",Channel 24 HD
 https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
@@ -576,6 +579,9 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="141000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla" tvg-name="SRK TV",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/T_SPORTS_HD
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
@@ -1183,6 +1189,18 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134325
 
 #EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://i.postimg.cc/xjs2Grbd/20260918-144735.png" group-title="Hindi Movies",SONY WAH
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72152.ts
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="Hindi",Star Bharat HD
+https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_BHARAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="Hindi",Star Bharat HD
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="Hindi",Star Bharat HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=195
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_bharat.png" group-title="Hindi",Star Bharat HD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134326
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_GOLD_HD.m3u8
@@ -2267,16 +2285,17 @@ http://103.89.248.130:8082/A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/HMfImxTUXS.jpg" group-title="Sports" tvg-name="Cricket Gold",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1 tvg-id="cbssport" tvg-name="WWE" tvg-logo="https://i.ibb.co.com/fV8CWk3v/WWE-Network-logo.jpg" group-title="Sports",WWE
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4244
 
 #EXTINF:-1 tvg-id="cbssport" tvg-name="WWE" tvg-logo="https://i.ibb.co.com/fV8CWk3v/WWE-Network-logo.jpg" group-title="Sports",WWE
 http://103.114.11.37:8081/WWE-24/7/index.m3u8
 
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1 tvg-id="cbssport" tvg-name="WWE" tvg-logo="https://i.ibb.co.com/fV8CWk3v/WWE-Network-logo.jpg" group-title="Sports",WWE
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132557
 
-
+#EXTINF:-1 tvg-id="cbssport" tvg-name="WWE" tvg-logo="https://i.ibb.co.com/fV8CWk3v/WWE-Network-logo.jpg" group-title="Sports",WWE
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=126198
 
 #EXTINF:-1 tvg-id="beIN Sports 1 Indonesia" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png" group-title="Sports", BEIN SPORTS 1 AQ FHD
 http://27.124.71.27/beIN_Sports_1/index.m3u8
