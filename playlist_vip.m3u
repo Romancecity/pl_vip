@@ -596,6 +596,9 @@ http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=48010
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/18452.ts
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
@@ -608,7 +611,7 @@ https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMp
 https://tvsen3.aynaott.com/Sports1/mono.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 https://tvsen7.aynascope.net/Sports1/index.m3u8
@@ -2033,8 +2036,14 @@ https://baila-lentoo.pages.dev/tnttt/uk-sky-sports-mix-sd.m3u8
 https://baila-lentoo.pages.dev/all-sp/394551.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=720x540" group-title="SPORTS" tvg-name="Unite8 Sports 1 HD",Unite8 Sports 1 HD
+http://103.114.11.37:8081/Unite8-sports-1/tracks-v1a1/mono.m3u8?token=sboxcast
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=720x540" group-title="SPORTS" tvg-name="Unite8 Sports 1 HD",Unite8 Sports 1 HD
 
 
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=720x540" group-title="SPORTS" tvg-name="Unite8 Sports 1 HD",Unite8 Sports 1 HD
 
 
 
@@ -2073,6 +2082,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=275
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=288
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
 http://202.70.146.135:8000/play/a00a/index.m3u8
@@ -2129,6 +2141,9 @@ https://tvsen7.aynascope.net/ssport2hd/index.m3u8
 http://103.89.248.130:8082/Star-sport-3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/67SCpBQ3/Star-Sports3-India.webp" group-title="Sports" tvg-name="Star Sports 3",Star Sports 3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67SCpBQ3/Star-Sports3-India.webp" group-title="Sports" tvg-name="Star Sports 3",Star Sports 3
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=39098
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/67SCpBQ3/Star-Sports3-India.webp" group-title="Sports" tvg-name="Star Sports 3",Star Sports 3
@@ -2144,6 +2159,9 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=299
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" tvg-name="StarSports Select 1",Star Sports Select 1
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" tvg-name="StarSports Select 1",Star Sports Select 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" tvg-name="StarSports Select 1",Star Sports Select 1
@@ -2154,6 +2172,9 @@ https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Star_Sp
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" tvg-name="Star Sports Select 2",Star Sports Select 2
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" tvg-name="Star Sports Select 2",Star Sports Select 2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" tvg-name="Star Sports Select 2",Star Sports Select 2
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/9401.ts
@@ -2470,6 +2491,9 @@ http://bosstv.click:8080/live/18012689/77561563/92412.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=90243
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Kids" tvg-name="Sony YaY",Sony YaY
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_yay.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Kids" tvg-name="Sony YaY",Sony YaY
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=78849
