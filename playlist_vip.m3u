@@ -599,7 +599,19 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=48010
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+https://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+https://app-zibo-play40.tvhunter.top/newr/T-SPORTS-HD.m3u8
+
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
+http://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="Sports" tvg-name="T Sports HD bd",T Sports HD
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
@@ -1134,6 +1146,9 @@ https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_max_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
+
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/SONY_MAX_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
@@ -1236,6 +1251,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134326
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_GOLD_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
 http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Hindi Movies" tvg-name="Star Gold HD",Star Gold HD
@@ -1263,6 +1281,9 @@ http://103.151.60.162:2122/play/a01v/index.m3u8
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33165
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp", STAR GOLD 2
+
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp", STAR GOLD 2
 http://202.70.146.135:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
@@ -1273,6 +1294,9 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/210.ts
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=197
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
+
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/spn4T6Kq/STS.jpg", STAR GOLD SELECT HD
 http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast
@@ -1904,6 +1928,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33317
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/TEN_SPORTS_HD.m3u8
 
 #EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports HD
+https://live.msnetworks.net/ten-sports/master.m3u8
+
+#EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/TEN_SPORTS_HD.m3u8
 
 #EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports HD
@@ -2353,6 +2380,9 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/PTV_SPORTS_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="Sports" tvg-name="PTV Sports",PTV Sports
+https://live.msnetworks.net/ptv-sports/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="Sports" tvg-name="PTV Sports",PTV Sports
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404537.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="Sports" tvg-name="PTV Sports",PTV Sports
@@ -2393,6 +2423,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=12217
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/A_SPORTS_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
+https://live.msnetworks.net/a-sports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="Sports" tvg-name="A Sports",A Sports
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132249
