@@ -1149,6 +1149,9 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252
 
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/SONY_MAX_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
@@ -1177,6 +1180,9 @@ https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max SD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
+https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_pix_hd.m3u8
@@ -2251,6 +2257,9 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_ten1_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+https://techandeat.online/sliv/stream.m3u8?id=1000009276|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Sony_Ten_Sports_1_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
@@ -2276,6 +2285,9 @@ http://103.89.248.130:8082/Sony-TEN-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_ten2_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+https://techandeat.online/sliv/stream.m3u8?id=1000009277|Referer=https://techandeat.online/
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Sony_Ten_Sports_2_HD.m3u8
@@ -2312,6 +2324,9 @@ http://103.89.248.130:8082/sony-TEN-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_ten3_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+https://techandeat.online/sliv/stream.m3u8?id=1000009278|Referer=https://techandeat.online/
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Sony_Ten_Sports_3_HD.m3u8
@@ -2357,6 +2372,9 @@ http://103.114.11.37:8081/Sony-sports-4/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_ten5_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/Sony_Ten_Sports_5_HD.m3u8
