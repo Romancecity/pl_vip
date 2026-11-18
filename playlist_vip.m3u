@@ -990,6 +990,15 @@ https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/a
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/COLORS_CINEPLEX_HD.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=470
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=156
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
+http://live.balajibroadband.com:3500/live/1477.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
 http://41smartpro.xyz:80/live/bmg12mk788/UPBTUU4/1020166.ts
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
@@ -997,12 +1006,6 @@ http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
 http://202.70.146.135:8000/play/a04n/index.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=470
-
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=156
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/156003.png", COLORS CINEPLEX HD
 http://51.75.127.199:3141/colorscineplexhd/index.m3u8
@@ -1421,7 +1424,7 @@ https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 tvg-id="ZEEBUSINESS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg" group-title="Hindi", ZEE BUSINESS
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png" group-title="Hindi Movies" tvg-name="Zee Cinema",ZZee Cafe HD
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png" group-title="Hindi Movies" tvg-name="Zee Cinema",Zee Cafe HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=212
 
 
