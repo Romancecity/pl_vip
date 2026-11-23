@@ -981,6 +981,9 @@ http://103.89.248.130:8082/ZEE-BANGLA-CINEMA/index.m3u8
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/%26PICTURES_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=139
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
@@ -1075,6 +1078,9 @@ http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 
 #EXTINF:-1 tvg-id="colors_hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Hindi",COLORS HD
 http://flowutc.com:80/live/34FQ94W/64CW3PG/72156.ts
+
+#EXTINF:-1 tvg-id="colors_hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Hindi",COLORS HD
+https://rangdhonulivetv.indiansserials.com/colorshd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="colors_hd" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Hindi",COLORS HD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=160
@@ -1209,7 +1215,7 @@ https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%253A%252F%252Fallinonereborn2.online%252Fsony-new%252Fplaylists%252Fsony_max_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
-
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
@@ -1408,6 +1414,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=78831
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_MOVIES_HD.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
+
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://picons.cmshulk.com/picons/282639.png", STAR MOVIES HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/9384.ts
@@ -1625,7 +1634,9 @@ https://tinyurl.com/4tfv9tup/19226/index.m3u8
 http://stream.mcquack.net/318/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rRcRzqvk/4653.png" group-title="Music" tvg-name="City Tv",City Tv
-https://tv.city.bg/play/tshls/citytv/2.m3u8#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybt9cyX/Deluxe-Dance.png" group-title="Music" tvg-name="DELUXE MUSIC DANCE (DE)",DELUXE MUSIC DANCE (DE)
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybt9cyX/Deluxe-Dance.png" group-title="Music" tvg-name="DELUXE MUSIC DANCE (DE)",DELUXE MUSIC DANCE (DE)
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ybt9cyX/Deluxe-Dance.png" group-title="Music" tvg-name="DELUXE MUSIC DANCE (DE)",DELUXE MUSIC DANCE (DE)
@@ -2000,6 +2011,9 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=33317
 http://bosstv.click:8080/live/18012689/77561563/158830.ts
 
 #EXTINF:-1 tvg-id="null" tvg-name="Fox Sports 501 HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="SPORTS",Fox Sports 501 HD
+
+
+#EXTINF:-1 tvg-id="null" tvg-name="Fox Sports 501 HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="SPORTS",Fox Sports 501 HD
 http://bosstv.click:8080/live/18012689/77561563/92702.ts
 
 #EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports HD
@@ -2033,7 +2047,7 @@ https://tinyurl.com/4tfv9tup/220/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/220/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-
+http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/220/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
 http://stream.mcquack.net/193/index.m3u8
@@ -2176,7 +2190,7 @@ https://baila-lentoo.pages.dev/all-sp/394551.m3u8
 https://tinyurl.com/4tfv9tup/18025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5WgRzVs2/6314.png" group-title="SPORTS" tvg-name="Go3 Sport Open HD",Go3 Sport Open HD
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18025/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1404528.ts
@@ -2186,6 +2200,9 @@ http://bosstv.click:8080/live/18012689/77561563/93302.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
 https://raw.githubusercontent.com/ireenfeni7-maker/HD-TV/refs/heads/main/STAR_SPORTS_1_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports1.m3u8
@@ -2628,6 +2645,9 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98880.ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
+https://rangdhonulivetv.indiansserials.com/NICK/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
 http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
