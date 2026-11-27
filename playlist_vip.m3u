@@ -1002,7 +1002,7 @@ http://103.89.248.130:8082/ZEE-BANGLA-CINEMA/index.m3u8
  ─────────── Hindi ───────────
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
-
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/51.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi Movies" tvg-name="& Pictures HD",& Pictures
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/231.ts
@@ -1188,7 +1188,7 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KcCFP6yY/hhh.webp" group-title="Hindi Movies" tvg-name="MBC BOLLYWOOD",MBC BOLLYWOOD
-https://baila-lentoo.pages.dev/arabic-c/918268.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KcCFP6yY/hhh.webp" group-title="Hindi Movies" tvg-name="MBC BOLLYWOOD",MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
@@ -2098,30 +2098,6 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98.ts
 #EXTINF:-1 tvg-name="056. Ten Sports" tvg-logo="https://i.postimg.cc/Gp0rBkTj/20260918-111219.png" group-title="SPORTS",Ten Sports SD
 https://live.incableinternet.com/ten-sports/master.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-https://tinyurl.com/4tfv9tup/220/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/220/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://54fytrui.dienalt.org/iptv/LQ6QKXZBKK7RNM/220/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/220/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/220/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/220/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://stream.mcquack.net/193/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/tnzqDxH/map.jpg" tvg-name="Маtch Premier HD",Маtch Premier HD
-http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/220/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/zTttGxq7/20240608022814012865-94.png" tvg-name="Маtch 1 HD",Маtch 1 HD
 https://tinyurl.com/4tfv9tup/222/index.m3u8
 
@@ -2260,24 +2236,6 @@ https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125660
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R2YXqLk/sky-sports.jpg" group-title="SPORTS" tvg-name="SKY SPORTS PREMIER LEAGUE",SKY SPORTS PREMIER LEAGUE
-
-
-#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
-https://tv.futbol-tv.online/stream/gb/sky-sports-football.ts
-
-#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=308
-
-#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
-
-
-#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
-
-
-#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
-
-
-#EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="SPORTS" , SKY SPORTS FOOTBALL FHD
 
 
 #EXTINF:-1 tvg-name="┃UK┃ SKY SPORTS MIX HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="SPORTS" , SKY SPORTS MIX FHD
