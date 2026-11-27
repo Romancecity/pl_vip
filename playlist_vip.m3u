@@ -1193,9 +1193,6 @@ https://baila-lentoo.pages.dev/arabic-c/918268.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KcCFP6yY/hhh.webp" group-title="Hindi Movies" tvg-name="MBC BOLLYWOOD",MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/LotusMacau.png" tvg-id="LOTUS",LOTUS HD
-https://s3.itcnbd.live/server-12/stream/OTE.m3u8
-
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://go4.pw/ASIA/INDIA/miniplex-1.png" tvg-id="MINIPLEX",MINIPLEX HD
 
 
@@ -1917,6 +1914,8 @@ http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/6134/index.m3u8
 #EXTINF:-1 tvg-id="197010" tvg-logo="https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png" group-title="Movies" tvg-name="be Movies Action 2 HD",be Movies Action 2 HD
 http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/6134/index.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/LotusMacau.png" tvg-id="LOTUS",LOTUS HD
+https://s3.itcnbd.live/server-12/stream/OTE.m3u8
 
 #EXTINF:-1 tvg-id="BEST ACTION TV" tvg-chno="1422" tvg-name="Best Action TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg" group-title="Movies",Best Action Movies
 https://streams2.sofast.tv/ptnr-Khabriya/title-BEST_ACTION_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46d81239-7803-45e2-9341-99ca0226fb62/manifest.m3u8
